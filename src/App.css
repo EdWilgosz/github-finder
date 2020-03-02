@@ -184,18 +184,6 @@ img {
   grid-gap: 1rem;
 }
 
-/* .grid-3 {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 1rem;
-}
-
-.grid-4 {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 1rem;
-} */
-
 .btn {
   display: inline-block;
   background: var(--light-color);
